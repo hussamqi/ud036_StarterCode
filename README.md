@@ -3,5 +3,6 @@ Source code for a Movie Trailer website.
 
 ## How to operate 
 * Clone the repo into your machine
-* Open **entertainment_center.py** and hit **Run**!
+* install python 3.7 for mac/windows/linux
+* Open **entertainment_center.py** with python idle and hit **Run**!
 
